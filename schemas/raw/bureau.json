@@ -1,0 +1,19 @@
+[
+{"Name": "SK_ID_CURR", "Type": "int"},
+{"Name": "SK_ID_BUREAU", "Type": "bigint"},
+{"Name": "CREDIT_ACTIVE", "Type": "string"},
+{"Name": "CREDIT_CURRENCY", "Type": "string"},
+{"Name": "DAYS_CREDIT", "Type": "int"},
+{"Name": "CREDIT_DAY_OVERDUE", "Type": "int"},
+{"Name": "DAYS_CREDIT_ENDDATE", "Type": "double"},
+{"Name": "DAYS_ENDDATE_FACT", "Type": "double"},
+{"Name": "AMT_CREDIT_MAX_OVERDUE", "Type": "double"},
+{"Name": "CNT_CREDIT_PROLONG", "Type": "int"},
+{"Name": "AMT_CREDIT_SUM", "Type": "double"},
+{"Name": "AMT_CREDIT_SUM_DEBT", "Type": "double"},
+{"Name": "AMT_CREDIT_SUM_LIMIT", "Type": "double"},
+{"Name": "AMT_CREDIT_SUM_OVERDUE", "Type": "double"},
+{"Name": "CREDIT_TYPE", "Type": "string"},
+{"Name": "DAYS_CREDIT_UPDATE", "Type": "int"},
+{"Name": "AMT_ANNUITY", "Type": "double"}
+]

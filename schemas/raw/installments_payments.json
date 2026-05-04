@@ -1,0 +1,10 @@
+[
+{"Name": "SK_ID_PREV", "Type": "bigint"},
+{"Name": "SK_ID_CURR", "Type": "int"},
+{"Name": "NUM_INSTALMENT_VERSION", "Type": "double"},
+{"Name": "NUM_INSTALMENT_NUMBER", "Type": "int"},
+{"Name": "DAYS_INSTALMENT", "Type": "double"},
+{"Name": "DAYS_ENTRY_PAYMENT", "Type": "double"},
+{"Name": "AMT_INSTALMENT", "Type": "double"},
+{"Name": "AMT_PAYMENT", "Type": "double"}
+]

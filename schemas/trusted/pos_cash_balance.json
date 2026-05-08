@@ -1,0 +1,10 @@
+[
+{"Name": "SK_ID_PREV", "Type": "bigint"},
+{"Name": "SK_ID_CURR", "Type": "int"},
+{"Name": "MONTHS_BALANCE", "Type": "int"},
+{"Name": "CNT_INSTALMENT", "Type": "double"},
+{"Name": "CNT_INSTALMENT_FUTURE", "Type": "double"},
+{"Name": "NAME_CONTRACT_STATUS", "Type": "string"},
+{"Name": "SK_DPD", "Type": "int"},
+{"Name": "SK_DPD_DEF", "Type": "int"}
+]

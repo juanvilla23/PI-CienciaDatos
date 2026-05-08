@@ -1,0 +1,5 @@
+[
+{"Name": "SK_ID_BUREAU", "Type": "bigint"},
+{"Name": "MONTHS_BALANCE", "Type": "int"},
+{"Name": "STATUS", "Type": "string"}
+]

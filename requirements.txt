@@ -2,3 +2,9 @@ boto3
 kagglehub
 jupyter
 pandas
+streamlit
+boto3
+pandas
+plotly
+pyarrow
+s3fs

@@ -24,7 +24,7 @@ session = boto3.Session(
 s3 = session.client('s3')
 path = kagglehub.competition_download('home-credit-default-risk', output_dir='./data')
 
-directory = os.path.dirname(os.path.abspath(__file__))
+directory = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 directory = os.path.join(directory, 'data')
 
 for file in os.listdir(directory):
